@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\bin\Debug\IgraNaKarte.exe.config
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\bin\Debug\IgraNaKarte.exe
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\bin\Debug\IgraNaKarte.pdb
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\obj\Debug\IgraNaKarte.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\obj\Debug\IgraNaKarte.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\obj\Debug\IgraNaKarte.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\obj\Debug\IgraNaKarte.exe
+C:\Users\HP\source\repos\IgraNaKarte\IgraNaKarte\obj\Debug\IgraNaKarte.pdb
